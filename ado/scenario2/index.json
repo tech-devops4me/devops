@@ -1,0 +1,8 @@
+{
+    "title": "Scenario two",
+    "description": "This is the description of scenario two in course Azure DevOps",
+    "backend": {
+      "imageid": "ubuntu"
+    }
+  }
+  
